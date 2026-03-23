@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "forecasting_grid_decisions"
 version = "0.1.0"
-description = "Solar-forecasting grid decisioins for mini-grid"
+description = "Solar-forecasting model and grid decisioins simulation for mini-grid"
 dependencies = [
     "pandas",
     "numpy",
