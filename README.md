@@ -4,7 +4,7 @@
 This repository evaluates how forecast uncertainty should change battery dispatch decisions in a weak-grid solar mini-grid context.
 
 ## Core Question
-Given forecast uncertainty, what should an operator do differently?
+Given forecast uncertainty, what should an operator do differently? 
 
 ## Purpose
 Phase 3 translates:
