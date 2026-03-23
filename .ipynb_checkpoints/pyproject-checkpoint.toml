@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "forecasting_grid_decisions"
+version = "0.1.0"
+description = "Solar-forecasting grid decisioins for mini-grid"
+dependencies = [
+    "pandas",
+    "numpy",
+    "pvlib",
+    "matplotlib"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
